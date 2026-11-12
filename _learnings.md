@@ -18,6 +18,15 @@ Read this before choosing today's topic, style, title and script. Rewrite it at 
 - Number in the title ("in 15 minutes", "7 seconds").
 - Same winning format, new subject (e.g. other "doubles every minute"-style escalation topics).
 
+## Posting-time test (managed by the Sunday weekly report)
+Each slot runs for one week, then the weekly report compares average views at ~24 h per Short and moves the schedule.
+| week | daily post time (IST) | Shorts | avg views at ~24 h | result |
+|---|---|---|---|---|
+| 2026-11-13 to 11-19 | 07:33 | | | running |
+| 2026-11-20 to 11-26 | 12:41 | | | planned |
+| 2026-11-27 to 12-03 | 18:41 | | | planned |
+After week 3: keep the best slot (ties: earliest). Re-test once every ~2 months.
+
 ## Scoreboard (one line per Short; refresh the numbers every run)
 | date | title | style | length | views | likes | comments | avg % viewed | notes |
 |---|---|---|---|---|---|---|---|---|
