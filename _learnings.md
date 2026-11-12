@@ -19,13 +19,13 @@ Read this before choosing today's topic, style, title and script. Rewrite it at 
 - Same winning format, new subject (e.g. other "doubles every minute"-style escalation topics).
 
 ## Posting-time test (managed by the Sunday weekly report)
-Each slot runs for one week, then the weekly report compares average views at ~24 h per Short and moves the schedule.
-| week | daily post time (IST) | Shorts | avg views at ~24 h | result |
-|---|---|---|---|---|
-| 2026-11-13 to 11-19 | 07:33 | | | running |
-| 2026-11-20 to 11-26 | 12:41 | | | planned |
-| 2026-11-27 to 12-03 | 18:41 | | | planned |
-After week 3: keep the best slot (ties: earliest). Re-test once every ~2 months.
+Each slot is used until it has at least 5 Shorts; then the Sunday report moves both scheduled tasks to the next slot. Compare average views at ~24 h per Short.
+| slot | main post time (IST) | safety net (IST) | started | Shorts | avg views at ~24 h | status |
+|---|---|---|---|---|---|---|
+| A | 07:33 | 11:03 | 2026-11-13 | 0 | | running |
+| B | 12:41 | 16:11 | | | | planned |
+| C | 18:41 | 22:11 | | | | planned |
+After slot C: keep the best slot (ties: earliest), mark it "winner". Re-test about every 2 months.
 
 ## Scoreboard (one line per Short; refresh the numbers every run)
 | date | title | style | length | views | likes | comments | avg % viewed | notes |
