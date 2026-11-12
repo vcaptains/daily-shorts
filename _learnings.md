@@ -22,6 +22,30 @@ Week of 2026-11-12: channel's first week. 2 Shorts, 268 views, 3 subscribers. "W
 - Stronger first 1 s: open on the most extreme image, not a calm setup.
 - Number in the title ("in 15 minutes", "7 seconds").
 - Same winning format, new subject (e.g. other "doubles every minute"-style escalation topics).
+- NEW (research 11-12) Timely vs evergreen: make 2 Shorts tied to a dated event (e.g. Leonids 11-17, supermoon 11-24) posted on/1 day before the date; compare 24 h views with the evergreen "what if" average.
+- NEW (research 11-12) Loop ending: on one "what if" Short, make the last sentence lead straight back into the first line (no outro). Compare avg % viewed with the others.
+- NEW (research 11-12) Series: put every "What if..." Short into one Shorts series/playlist (YouTube added Shorts series on 09-23). Compare views per Short before vs after the series starts.
+
+## Research notes (weekly)
+Updated 2026-11-12. Delete notes older than ~6 weeks unless still important.
+- AVOID: anything that looks "mass-produced". Since 10-01 YouTube's Shorts feed favors original content and cuts reach for re-uploads; Creator Liaison Rene Ritchie said voice-over + minor/template edits do not make content original (YouTube Help Community 10-01; Creator Insider via Search Engine Journal, 10-01). Our Shorts are original, but keep each one clearly different: new visuals per topic, a fact you checked, no copy-paste script template.
+- AVOID: posting many near-identical Shorts a day. Monetization reviews flag AI-voice faceless "farms" with templated thumbnails and stock loops (policy renamed "inauthentic content" 2025-07-15; AIR Media-Tech timeline, 2026-08-28). 1 Short/day is safe.
+- TRY: Shorts series (09-23, OutlierKit timeline 11-03) to group "What if..." Shorts. Views now count from the first frame, including replays (08-24), so a strong first frame and a loop ending both count.
+- No solid data this week on ideal length, captions or hook timing: all the "studies" found were vendor blogs without samples. Keep our own rule (30-38 s) and trust our scoreboard over blog numbers.
+- New YouTube "consistency bonus" pilot for Shorts is invite-only, partners in 6 countries (Tubefilter, 10-23). Not for us yet; daily posting is still the right habit.
+
+## Topic calendar (next 14 days)
+Post on the date (or the day before). Skip a line if the event slips.
+- 11-13: Starship Flight 15 launch window (date may slip). Hook: "This rocket is taller than the Statue of Liberty, and they catch it with giant metal arms."
+- 11-14: Apollo 12 anniversary (1969). Hook: "36 seconds after launch, lightning hit their rocket. Twice."
+- 11-15: Mars and Jupiter ~1 degree apart before dawn. Hook: "What if Jupiter were as close to us as Mars?"
+- 11-17: Leonids peak (best after midnight). Hook: "In 1833 people woke to 100,000 shooting stars an hour and thought the world was ending."
+- 11-20: Whaleship Essex sunk by a whale (1820). Hook: "A whale attacked their ship on purpose. What happened next was worse."
+- 11-21: First people to fly, in a hot-air balloon (1783). Hook: "The first flight passengers weren't humans. They were a sheep, a duck and a rooster."
+- 11-24: Beaver supermoon. Hook: "What if the Moon were twice as close?"
+- 11-25: Uranus at its brightest (opposition). Hook: "This planet rolls around the Sun on its side. What if Earth did?"
+- 11-26: Tutankhamun's tomb first opened (1922) / US Thanksgiving. Hooks: "He looked inside and saw gold everywhere." or "It's not the turkey making you sleepy."
+- Anytime (news 11-09): Parker Solar Probe found a hidden pattern in the Sun's magnetic field. Hook: "What would happen if you touched the Sun?"
 
 ## Posting-time test (managed by the Sunday weekly report)
 Each slot is used until it has at least 5 Shorts; then the Sunday report moves both scheduled tasks to the next slot. Compare average views at ~24 h per Short.
