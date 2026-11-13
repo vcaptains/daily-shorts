@@ -2,6 +2,17 @@
 
 Read this before choosing today's topic, style, title and script. Rewrite it at the end of every run: keep it short (under ~80 lines), keep only lessons the numbers support, and say how confident each one is.
 
+## Quality bar (set by the channel owner; NEVER delete or shorten this section)
+Owner feedback 2026-11-13: the Shorts look too plain and calm to compete. Every Short must pass ALL of these before publishing:
+1. HOOK = a shocking STATEMENT, not a soft question. Bad: "What happens when lightning hits a rocket?" Good: "Lightning hit this rocket. TWICE." The first 3 words must already be surprising.
+2. FILL THE FRAME: the main subject takes up at least half the screen, shown big and close. No small objects floating in empty space.
+3. MOTION EVERY SECOND: every shot has camera movement (slow push-in, zoom punch on key words, shake on impacts), not just one small moving part.
+4. DRAMA: big contrast, bright accent colour on the key object, flashes/impacts on the big moments. Calm explainer pacing loses viewers.
+5. SOUND: a whoosh or hit on every cut and on every yellow word if the skill/mix supports it; music bed slightly louder and more energetic.
+6. CAPTIONS: large, bold, high on the lower third, easy to read on a phone at arm's length.
+7. TOPIC TEST before writing: "Would a 16-year-old stop scrolling and send this to a friend?" If not, pick a more extreme or more relatable topic (danger, body, money, records, "what if" with huge numbers).
+8. In QA, compare the contact sheet against this list and fix anything that fails. Note in the scoreboard which of these were applied.
+
 ## Current rules of thumb (strongest first)
 1. Too early to be sure of anything: 3 Shorts so far. Treat everything below as a hypothesis until there are 5+ Shorts compared at the same age (24 h / 48 h).
 2. Early views say little: the 20x gap at ~1 h (Earth 256 vs stomach 12) closed by ~17 h (1,214 vs 1,145). Judge Shorts at 24 h+, never at 1 h. (medium confidence, 2 Shorts)
