@@ -3,12 +3,14 @@
 Read this before choosing today's topic, style, title and script. Rewrite it at the end of every run: keep it short (under ~80 lines), keep only lessons the numbers support, and say how confident each one is.
 
 ## Current rules of thumb (strongest first)
-1. Too early to be sure of anything: only 2 Shorts so far. Treat everything below as a hypothesis until a Short is 48 h old and there are 5+ Shorts to compare.
-2. Hypothesis (low confidence, growing): escalating "what if" scenarios with cosmic or extreme stakes pull far more early views than calm "why does my body..." explainers. Earth doubling: 256 views, 12 likes at ~1.3 h; stomach: 12 views, 0 likes at ~35 min (about 20x gap, partly age). Test it: alternate "what if" escalation with other formats for the next week and compare views at 24 h.
-3. Both Shorts ran 42-43 s. Shorter Shorts usually keep a higher % viewed, which drives Shorts reach. Aim for 30-38 s (about 85-95 words) and check averageViewPercentage once analytics arrive.
-4. Title with an emoji ("... Every Minute? 🌍") vs plain "#shorts" title: not enough data yet. Keep testing both styles.
+1. Too early to be sure of anything: 3 Shorts so far. Treat everything below as a hypothesis until there are 5+ Shorts compared at the same age (24 h / 48 h).
+2. Early views say little: the 20x gap at ~1 h (Earth 256 vs stomach 12) closed by ~17 h (1,214 vs 1,145). Judge Shorts at 24 h+, never at 1 h. (medium confidence, 2 Shorts)
+3. "What if" escalation is NOT clearly beating body explainers on views (1,214 vs 1,145 at ~17 h) but gets more likes per view (2.1% vs 1.4%). Hypothesis: both formats work; keep alternating and compare likes/view + retention. (low confidence)
+4. Length: first two ran 42-43 s; 11-13 tested 32 s with a loop ending + a frame-one hook. Compare % viewed when analytics arrive. (untested)
+5. Title emoji vs plain "#shorts": still no difference visible (emoji 1,214 vs plain 1,145). Keep testing. (low confidence)
 
 Week of 2026-11-12: channel's first week. 2 Shorts, 268 views, 3 subscribers. "What if" escalation (Earth doubling) beat the body explainer by ~20x; analytics (retention) not in yet.
+Run 2026-11-13: by ~17 h both first Shorts had ~1.2k views each (2,359 total). New today: first history/true-story Short (Paper Atlas style), timely (Apollo 12 anniversary is 11-14), 32 s, loop ending, new playlist "Wild True Stories".
 
 ## What to watch (in this order)
 - averageViewPercentage (retention): the main signal for Shorts. Below ~70% means the hook or pacing is losing people.
@@ -16,15 +18,13 @@ Week of 2026-11-12: channel's first week. 2 Shorts, 268 views, 3 subscribers. "W
 - likes/views and comments/views (engagement), shares, subscribersGained.
 
 ## Ideas queue (try these, then record the result here)
-- Next week: double down on "what if" escalation (most days), with an extreme, countdown-style ending; keep a body explainer every ~3rd day only if it gets a "what if"-style hook (e.g. "What if your stomach stopped making slime?").
-- Drop: calm "why does..." openers with a plain #shorts title.
-- New experiment: 30-35 s cut (vs 42-43 s) on one "what if" Short; compare views and % viewed at 24 h.
-- Stronger first 1 s: open on the most extreme image, not a calm setup.
+- TESTING 11-13 (Apollo 12): timely anniversary post (day before), 32 s cut, loop ending (last line leads into the first), lightning already on screen in frame one with the hook caption at 0.0 s, true-story format, Science & Tech category. Read its 24 h views and % viewed on the next runs.
+- RESULT (11-12 → 11-13): "what if beats body explainers by 20x" did not hold at ~17 h (1,214 vs 1,145). Keep both formats in rotation.
+- Viewer request (comment on stomach Short): "Why are some twins identical and some not?" → good "Your Body, Explained" topic soon (hook: "Two babies, same day, same mum. Why do only some look identical?").
+- Next "what if": a "doubles every minute"-style escalation on a new subject, with a number in the title.
 - Number in the title ("in 15 minutes", "7 seconds").
-- Same winning format, new subject (e.g. other "doubles every minute"-style escalation topics).
-- NEW (research 11-12) Timely vs evergreen: make 2 Shorts tied to a dated event (e.g. Leonids 11-17, supermoon 11-24) posted on/1 day before the date; compare 24 h views with the evergreen "what if" average.
-- NEW (research 11-12) Loop ending: on one "what if" Short, make the last sentence lead straight back into the first line (no outro). Compare avg % viewed with the others.
-- NEW (research 11-12) Series: put every "What if..." Short into one Shorts series/playlist (YouTube added Shorts series on 09-23). Compare views per Short before vs after the series starts.
+- NEW (research 11-12) Timely vs evergreen: 1st done (Apollo 12, 11-13); 2nd: Leonids 11-17 or supermoon 11-24. Compare 24 h views with the evergreen average.
+- NEW (research 11-12) Series: every Short now goes into one of 3 playlists (What If…?, Your Body Explained, Wild True Stories). Compare views per Short before vs after.
 
 ## Research notes (weekly)
 Updated 2026-11-12. Delete notes older than ~6 weeks unless still important.
@@ -37,7 +37,7 @@ Updated 2026-11-12. Delete notes older than ~6 weeks unless still important.
 ## Topic calendar (next 14 days)
 Post on the date (or the day before). Skip a line if the event slips.
 - 11-13: Starship Flight 15 launch window (date may slip). Hook: "This rocket is taller than the Statue of Liberty, and they catch it with giant metal arms."
-- 11-14: Apollo 12 anniversary (1969). Hook: "36 seconds after launch, lightning hit their rocket. Twice."
+- ~~11-14: Apollo 12 anniversary~~ DONE 11-13 ("Lightning Hit Their Moon Rocket. Twice ⚡").
 - 11-15: Mars and Jupiter ~1 degree apart before dawn. Hook: "What if Jupiter were as close to us as Mars?"
 - 11-17: Leonids peak (best after midnight). Hook: "In 1833 people woke to 100,000 shooting stars an hour and thought the world was ending."
 - 11-20: Whaleship Essex sunk by a whale (1820). Hook: "A whale attacked their ship on purpose. What happened next was worse."
@@ -51,7 +51,7 @@ Post on the date (or the day before). Skip a line if the event slips.
 Each slot is used until it has at least 5 Shorts; then the Sunday report moves both scheduled tasks to the next slot. Compare average views at ~24 h per Short.
 | slot | main post time (IST) | safety net (IST) | started | Shorts | avg views at ~24 h | status |
 |---|---|---|---|---|---|---|
-| A | 07:33 | 11:03 | 2026-11-13 | 0 | | running |
+| A | 07:33 | 11:03 | 2026-11-13 | 1 | | running |
 | B | 12:41 | 16:11 | | | | planned |
 | C | 18:41 | 22:11 | | | | planned |
 After slot C: keep the best slot (ties: earliest), mark it "winner". Re-test about every 2 months.
@@ -59,5 +59,6 @@ After slot C: keep the best slot (ties: earliest), mark it "winner". Re-test abo
 ## Scoreboard (one line per Short; refresh the numbers every run)
 | date | title | style | length | views | likes | comments | avg % viewed | notes |
 |---|---|---|---|---|---|---|---|---|
-| 2026-11-12 | What If Earth Doubled in Size Every Minute? 🌍 | Inside Out | 42 s | 256 (~1.3 h) | 12 | 2 (1 ours) | n/a yet | what-if escalation, emoji title, Entertainment category |
-| 2026-11-12 | Why Doesn't Your Stomach Digest Itself? #shorts | Inside Out | 43 s | 12 (~35 min) | 0 | 1 (ours) | n/a yet | body "why" question, Education category |
+| 2026-11-12 | What If Earth Doubled in Size Every Minute? 🌍 | Inside Out | 42 s | 1,214 (~17 h) | 26 | 3 (1 ours) | n/a yet | what-if escalation, emoji title, Entertainment (24), posted 14:22 IST |
+| 2026-11-12 | Why Doesn't Your Stomach Digest Itself? #shorts | Inside Out | 43 s | 1,145 (~16.5 h) | 16 | 3 (1 ours) | n/a yet | body "why" question, Education (27), posted 15:06 IST; viewer asked about twins |
+| 2026-11-13 | Lightning Hit Their Moon Rocket. Twice ⚡ #shorts | Paper Atlas | 32 s | new | | | | true story, timely (Apollo 12 anniv. 11-14), loop ending, frame-one hook, Sci & Tech (28), posted 07:48 IST (slot A), playlist Wild True Stories |
