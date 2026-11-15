@@ -14,14 +14,14 @@ Owner feedback 2026-11-13: the Shorts look too plain and calm to compete. Every 
 8. In QA, compare the contact sheet against this list and fix anything that fails. Note in the scoreboard which of these were applied.
 
 ## Current rules of thumb (strongest first)
-1. Too early to be sure of anything: 3 Shorts so far. Treat everything below as a hypothesis until there are 5+ Shorts compared at the same age (24 h / 48 h).
-2. Early views say little: the 20x gap at ~1 h (Earth 256 vs stomach 12) closed by ~17 h (1,214 vs 1,145). Judge Shorts at 24 h+, never at 1 h. (medium confidence, 2 Shorts)
-3. "What if" escalation is NOT clearly beating body explainers on views (1,214 vs 1,145 at ~17 h) but gets more likes per view (2.1% vs 1.4%). Hypothesis: both formats work; keep alternating and compare likes/view + retention. (low confidence)
-4. Length: first two ran 42-43 s; 11-13 tested 32 s with a loop ending + a frame-one hook. Compare % viewed when analytics arrive. (untested)
-5. Title emoji vs plain "#shorts": still no difference visible (emoji 1,214 vs plain 1,145). Keep testing. (low confidence)
+1. Every Short so far lands in the same 1.1k-1.3k band (5 Shorts, 12-65 h old): Apollo 1,296 @48 h, Earth 1,265 @65 h, stomach 1,154 @64 h, ice 1,135 @12 h, GTA 1,127 @55 h. Hypothesis: that is YouTube's first test pool, and none has broken out yet. The fix is retention (hook + pacing), not topic type. (medium confidence)
+2. The ice Short (Stick Story, 33 s, survival myth-bust) hit 1,135 views in ~12.5 h with 27 likes (2.4%, best like rate). Fast start + high likes = survival/danger topics deserve more slots. (low-medium, 1 Short)
+3. Shorter is not hurting: 33 s Shorts (Apollo, ice) match or beat the 42-45 s ones on views and like rate. Keep 28-35 s. (low-medium)
+4. Judge at 24 h+, never at 1 h (the 20x gap at 1 h closed by 17 h). (medium)
+5. Format (what-if vs body vs true story) and emoji vs plain titles: no visible difference yet. Keep rotating. (low)
 
-Week of 2026-11-12: channel's first week. 2 Shorts, 268 views, 3 subscribers. "What if" escalation (Earth doubling) beat the body explainer by ~20x; analytics (retention) not in yet.
-Run 2026-11-13: by ~17 h both first Shorts had ~1.2k views each (2,359 total). New today: first history/true-story Short (Paper Atlas style), timely (Apollo 12 anniversary is 11-14), 32 s, loop ending, new playlist "Wild True Stories".
+Week of 2026-11-12: 2 Shorts, 268 views, 3 subs. Run 11-13: Apollo 12 true story. Manual: GTA 6 (11-13), ice (11-14).
+Run 2026-11-15: answered a viewer's comment question (twins) with a 32 s Inside Out Short, voice af_heart, statement hook "One egg just became two people." on screen from frame one (no fade-in), loop ending.
 
 ## What to watch (in this order)
 - averageViewPercentage (retention): the main signal for Shorts. Below ~70% means the hook or pacing is losing people.
@@ -29,13 +29,14 @@ Run 2026-11-13: by ~17 h both first Shorts had ~1.2k views each (2,359 total). N
 - likes/views and comments/views (engagement), shares, subscribersGained.
 
 ## Ideas queue (try these, then record the result here)
-- TESTING 11-13 (Apollo 12): timely anniversary post (day before), 32 s cut, loop ending (last line leads into the first), lightning already on screen in frame one with the hook caption at 0.0 s, true-story format, Science & Tech category. Read its 24 h views and % viewed on the next runs.
-- RESULT (11-12 → 11-13): "what if beats body explainers by 20x" did not hold at ~17 h (1,214 vs 1,145). Keep both formats in rotation.
-- Viewer request (comment on stomach Short): "Why are some twins identical and some not?" → good "Your Body, Explained" topic soon (hook: "Two babies, same day, same mum. Why do only some look identical?").
-- Next "what if": a "doubles every minute"-style escalation on a new subject, with a number in the title.
-- Number in the title ("in 15 minutes", "7 seconds").
-- NEW (research 11-12) Timely vs evergreen: 1st done (Apollo 12, 11-13); 2nd: Leonids 11-17 or supermoon 11-24. Compare 24 h views with the evergreen average.
-- NEW (research 11-12) Series: every Short now goes into one of 3 playlists (What If…?, Your Body Explained, Wild True Stories). Compare views per Short before vs after.
+- TESTING 11-15 (twins): a Short that answers a viewer's comment question. Compare 24 h views and comments with the others; if it pulls more comments, answer one viewer question a week.
+- TESTING 11-15: no fade-in (frame one is fully lit) + statement hook (owner quality bar #1). Watch % viewed when analytics arrive.
+- TESTING 11-13 (Apollo 12): timely anniversary. Result so far: 1,296 @48 h = best total, but within the shared band. Not a clear win yet.
+- RESULT (11-12 to 11-15): "what if beats body explainers" did not hold; all formats ~1.2k.
+- Next: more survival/danger (ice was fastest): e.g. "How long could you survive without sleep?" (Stick Story, am_puck).
+- Next "what if": a doubling-style escalation with a number in the title (am_michael).
+- Timely: Leonids 11-17 (Paper Atlas true story, bm_fable) or supermoon 11-24.
+- Viewer comment on GTA Short asked about pre-downloading; low value as a topic.
 
 ## Research notes (weekly)
 Updated 2026-11-12. Delete notes older than ~6 weeks unless still important.
@@ -49,7 +50,7 @@ Updated 2026-11-12. Delete notes older than ~6 weeks unless still important.
 Post on the date (or the day before). Skip a line if the event slips.
 - 11-13: Starship Flight 15 launch window (date may slip). Hook: "This rocket is taller than the Statue of Liberty, and they catch it with giant metal arms."
 - ~~11-14: Apollo 12 anniversary~~ DONE 11-13 ("Lightning Hit Their Moon Rocket. Twice ⚡").
-- 11-15: Mars and Jupiter ~1 degree apart before dawn. Hook: "What if Jupiter were as close to us as Mars?"
+- ~~11-15: Mars and Jupiter ~1 degree apart~~ skipped (did viewer-requested twins instead). Hook: "What if Jupiter were as close to us as Mars?"
 - 11-17: Leonids peak (best after midnight). Hook: "In 1833 people woke to 100,000 shooting stars an hour and thought the world was ending."
 - 11-20: Whaleship Essex sunk by a whale (1820). Hook: "A whale attacked their ship on purpose. What happened next was worse."
 - 11-21: First people to fly, in a hot-air balloon (1783). Hook: "The first flight passengers weren't humans. They were a sheep, a duck and a rooster."
@@ -62,16 +63,17 @@ Post on the date (or the day before). Skip a line if the event slips.
 Each slot is used until it has at least 5 Shorts; then the Sunday report moves both scheduled tasks to the next slot. Compare average views at ~24 h per Short.
 | slot | main post time (IST) | safety net (IST) | started | Shorts | avg views at ~24 h | status |
 |---|---|---|---|---|---|---|
-| A | 07:33 | 11:03 | 2026-11-13 | 1 | | running |
+| A | 07:33 | 11:03 | 2026-11-13 | 2 (Apollo 1,296 @48 h; twins 11-15) | | running |
 | B | 12:41 | 16:11 | | | | planned |
 | C | 18:41 | 22:11 | | | | planned |
 After slot C: keep the best slot (ties: earliest), mark it "winner". Re-test about every 2 months.
 
-## Scoreboard (one line per Short; refresh the numbers every run)
+## Scoreboard (one line per Short; refresh the numbers every run; numbers from 2026-11-15 07:34 IST)
 | date | title | style | length | views | likes | comments | avg % viewed | notes |
 |---|---|---|---|---|---|---|---|---|
-| 2026-11-12 | What If Earth Doubled in Size Every Minute? 🌍 | Inside Out | 42 s | 1,214 (~17 h) | 26 | 3 (1 ours) | n/a yet | what-if escalation, emoji title, Entertainment (24), posted 14:22 IST |
-| 2026-11-12 | Why Doesn't Your Stomach Digest Itself? #shorts | Inside Out | 43 s | 1,145 (~16.5 h) | 16 | 3 (1 ours) | n/a yet | body "why" question, Education (27), posted 15:06 IST; viewer asked about twins |
-| 2026-11-13 | Lightning Hit Their Moon Rocket. Twice ⚡ #shorts | Paper Atlas | 32 s | new | | | | true story, timely (Apollo 12 anniv. 11-14), loop ending, frame-one hook, Sci & Tech (28), posted 07:48 IST (slot A), playlist Wild True Stories |
-| 2026-11-13 | What If GTA 6 Finally Dropped? 🌴 #shorts | Inside Out | ? | new | | | | MANUAL upload, timely pop-culture (GTA 6 launch 11-19), voice am_michael, posted ~19:00 IST; outside posting-time test; added to What If…? playlist 11-14 (done) |
-| 2026-11-14 | What If You Fell Through The Ice? 🧊 #shorts | Stick Story | ? | scheduled | | | | MANUAL upload, survival myth-bust (1-10-1 rule), voice am_puck, scheduled public 19:00 IST; outside posting-time test; added to What If…? playlist 11-14 (done) |
+| 2026-11-12 | What If Earth Doubled in Size Every Minute? 🌍 | Inside Out | 42 s | 1,265 (~65 h) | 26 | 2 | n/a | what-if escalation, emoji title, Entertainment (24), 14:22 IST, am_michael |
+| 2026-11-12 | Why Doesn't Your Stomach Digest Itself? #shorts | Inside Out | 43 s | 1,154 (~64 h) | 15 | 3 | n/a | body "why", Education (27), 15:06 IST; viewer asked about twins (answered 11-15) |
+| 2026-11-13 | Lightning Hit Their Moon Rocket. Twice ⚡ #shorts | Paper Atlas | 33 s | 1,296 (~48 h) | 24 | 1 | n/a | true story, timely, loop ending, Sci & Tech (28), 07:48 IST (slot A), Wild True Stories |
+| 2026-11-13 | What If GTA 6 Finally Dropped? 🌴 #shorts | Inside Out | 45 s | 1,127 (~55 h) | 25 | 2 | n/a | MANUAL, pop-culture, am_michael, ~00:37 IST 11-13; outside posting test; What If playlist |
+| 2026-11-14 | What If You Fell Through The Ice? 🧊 #shorts | Stick Story | 33 s | 1,135 (~12.5 h) | 27 | 0 | n/a | MANUAL, survival myth-bust, am_puck, public 19:00 IST; outside posting test; fastest start |
+| 2026-11-15 | One Egg, Two People: Why Twins Match 👯 #shorts | Inside Out | 32 s | new | | | | viewer request, statement hook, no fade-in, loop ending, af_heart, Education (27), 07:42 IST (slot A), Your Body Explained; new kit: eggCell, baby, sperm, dna, fingerprint, die, face, sac, wombBg |
