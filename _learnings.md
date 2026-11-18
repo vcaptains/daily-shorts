@@ -21,11 +21,8 @@ Owner feedback 2026-11-13: the Shorts look too plain and calm to compete. Every 
 4. Length is not the problem (GTA held 76% at 45 s); the hook and the format are. Keep 28-40 s. (medium)
 5. Judge at 24 h+, never at 1 h. (medium)
 
-Week of 2026-11-12: 2 Shorts, 268 views, 3 subs. Run 11-13: Apollo 12 true story. Manual: GTA 6 (11-13), ice (11-14).
-Run 2026-11-15: answered a viewer's comment question (twins) with a 32 s Inside Out Short, voice af_heart, statement hook "One egg just became two people." on screen from frame one (no fade-in), loop ending.
 Run 2026-11-18: Whaleship Essex PART 1 (Paper Atlas, bm_george x1.13, 33 s): first 2-part mini-series; ends 'Part two, tomorrow' + PART 2 ribbon over the hook picture (still loops visually). TOMORROW'S RUN MUST MAKE PART 2 (see topic calendar).
 Run 2026-11-17: Randy Gardner 11 days awake (Stick Story, am_puck, 29 s): tested a big running DAY counter in every shot (escalation like Earth/ice) + seamless loop (last shot = first shot).
-Run 2026-11-16: Leonids/1833 meteor storm (timely: peak 11-17/18), Paper Atlas, 30 s, bm_george. Hook "The sky fell in 1833" on screen from frame one over a full meteor storm; tested an ACTIONABLE payoff ("this week, after midnight, look up") + a future hook (2033) to give a reason to share/follow.
 Week of 2026-11-15: 6 Shorts, 5,977 channel views, 7 subs (+4). Best: Earth doubling (72% viewed, +2 subs). Worst: stomach (45%). All Shorts stuck at the ~1.2k first-test band. First weekly long video posted (3 Shorts, 1:55).
 
 ## Improvement log (daily)
@@ -61,36 +58,47 @@ Pattern: escalating numbers ("minute 1, minute 6, minute 15") hold viewers; slow
 - DOUBLE DOWN: "what if" escalation with a number that grows every few seconds (best retention, only Short that won subs). Next: "What if the Moon were twice as close?" (11-24 supermoon) or "What if you didn't sleep for 11 days?".
 - DOUBLE DOWN: survival/danger in Stick Story (ice 122% viewed). DONE 11-17 as the 11-days-awake true story. Next survival ideas: "What if you got lost at sea?", "What if you got stuck in a lift?", "How long can you survive without water?".
 - DROP: slow "why does your body..." explainers with a question hook (45% viewed). Body topics only with a shocking statement hook and numbers.
-- TESTING 11-15 (twins, viewer request + statement hook + no fade-in): 1,193 @11.5 h but only 10 likes (0.8%). Check % viewed next Sunday.
 - TESTING 11-18: 2-part mini-series (Essex). Part 1 pays off its own hook, ends 'Part two, tomorrow'. Judge Part 1 subs per 1k vs 0.47 and whether Part 2 gets more views than Part 1 at 24 h (returning viewers).
 - DONE 11-16 (Leonids): actionable payoff + future hook: 77% viewed but 0 shares, 0 subs, 1,004 @48 h. DIDN'T lift subs; don't repeat as a subs fix.
 - TESTING 11-17 (11 days awake): a running DAY counter in every shot + seamless loop. Compare subs per 1k (vs 0.56) and % viewed (vs ice 122%).
 - RETITLE watch: none qualified 11-17 or 11-18 (no Short aged 48-120 h below half the median).
-- NEXT if subs stay ~0: end each Short with a series promise in the narration ("part 2 tomorrow") or the 2-part mini-series below.
-- Timely: Essex 11-20, balloon 11-21, supermoon 11-24.
+- EXPERIMENT (research 11-18): LENGTH. Make one "what if" escalation 45-55 s (rivals' top what-ifs run 43-80 s), all else as usual. Compare avg view duration in seconds and 24 h views vs the ~1.2k band.
+- EXPERIMENT (research 11-18): EXTREME NUMBER IN TITLE ("1 trillion times", "400 m"). One Short, compare 24 h views vs band.
+- EXPERIMENT (research 11-18): "YOU" in hook + title ("What if YOU..."), one Short, compare shares + subs per 1k vs 0.24 / 0.47.
 
 ## Research notes (weekly)
-Updated 2026-11-12. Delete notes older than ~6 weeks unless still important.
-- AVOID: anything that looks "mass-produced". Since 10-01 YouTube's Shorts feed favors original content and cuts reach for re-uploads; Creator Liaison Rene Ritchie said voice-over + minor/template edits do not make content original (YouTube Help Community 10-01; Creator Insider via Search Engine Journal, 10-01). Our Shorts are original, but keep each one clearly different: new visuals per topic, a fact you checked, no copy-paste script template.
-- AVOID: posting many near-identical Shorts a day. Monetization reviews flag AI-voice faceless "farms" with templated thumbnails and stock loops (policy renamed "inauthentic content" 2025-07-15; AIR Media-Tech timeline, 2026-08-28). 1 Short/day is safe.
-- TRY: Shorts series (09-23, OutlierKit timeline 11-03) to group "What if..." Shorts. Views now count from the first frame, including replays (08-24), so a strong first frame and a loop ending both count.
-- No solid data this week on ideal length, captions or hook timing: all the "studies" found were vendor blogs without samples. Keep our own rule (30-38 s) and trust our scoreboard over blog numbers.
-- New YouTube "consistency bonus" pilot for Shorts is invite-only, partners in 6 countries (Tubefilter, 10-23). Not for us yet; daily posting is still the right habit.
+Updated 2026-11-18 (weekly research). Delete notes older than ~6 weeks unless still important.
+- AVOID: anything that "looks like it's made with a template" (YouTube's own wording). Inauthentic-content policy was split in mid-2026 into generic/repetitive, unsatisfying, and AI personas posing as experts (ScaleLab, upd. 11-09). Since 10-01 Shorts ranking favours original content; voice-over + template edits don't count as original (Creator Insider via SEJ, 10-01). Keep rotating our 3 styles, write every script from checked facts, never an AI "doctor/expert" character. No enforcement wave reported Oct-Nov.
+- Public Shorts views count every start and replay; "engaged views" (used for money/bonuses) exclude loops (OutlierKit 10-03; ContentStudio 10-14). Loops help reach, but real watch time is what pays later.
+- 11-16: YouTube now adds estimated TV co-viewers to public view counts (Purple Fish, 11-16). A small view jump may be this, not our change: judge tests on % viewed, subs and shares.
+- YouTube's Shorts lead: no ideal length and posting time matters little (Todd Sherman, quoted by OutlierKit 10-03). Our 28-40 s rule is our habit, not a YouTube rule (see length experiment).
+- "Shorts series" (seasons/episodes, custom thumbnails) is for Partner Program channels only (TechCrunch 09-23). TRY when eligible; until then use playlists + "Part 2" titles. Made on YouTube also expanded A/B tests of opening hooks: TRY if Studio offers it.
+- Still no real data (with samples) on hook timing or swipe rates; vendor "benchmarks" are hypothetical. Trust our scoreboard.
+
+## What's working for other channels (weekly)
+Competitor study 2026-11-18 (YouTube search, Shorts posted 11-11 to 11-18, English only). Use the PATTERN, never their topic.
+- Extreme number or scale right in the title: "shrink 1 trillion times" (456k, 49 s), "a 400 m wave" (176k, 43 s). Ours could be: "What if a wave as tall as the Eiffel Tower hit a city?"
+- Escalation that "gets worse every second": gravity stronger every second (129k, 71 s), the Moon falling toward Earth (197k, 68 s). Same as our Earth-doubling win. Ours: "What if the day got 1 hour shorter every minute?"
+- Everyday physics with a funny twist: "sound moving at walking speed" (135k, 33 s). Ours: "What if light were as slow as a bicycle?"
+- Put the VIEWER in it ("you"): "stars died so YOU exist" (236k, 70 s). Ours: "Your body is replacing itself while you watch this."
+- Counter-intuitive survival rules from a stick figure ("run TOWARD the train", "run from a cow"): 15-22k each at ~38 s on a small channel: same niche as our Stick Story. Ours: "Never stand in a doorway during an earthquake."
+- Length: the biggest English what-ifs this week ran 43-80 s, longer than ours.
 
 ## Topic calendar (next 14 days)
-Post on the date (or the day before). Skip a line if the event slips.
-- 11-13: Starship Flight 15 launch window (date may slip). Hook: "This rocket is taller than the Statue of Liberty, and they catch it with giant metal arms."
-- ~~11-14: Apollo 12 anniversary~~ DONE 11-13 ("Lightning Hit Their Moon Rocket. Twice ⚡").
-- ~~11-15: Mars and Jupiter ~1 degree apart~~ skipped (did viewer-requested twins instead). Hook: "What if Jupiter were as close to us as Mars?"
-- ~~11-17: Leonids peak~~ DONE 11-16 ("150,000 Shooting Stars an Hour ☄️"). Hook: "In 1833 people woke to 100,000 shooting stars an hour and thought the world was ending."
-- ~~11-20: Whaleship Essex~~ PART 1 DONE 11-18 ("A Whale Sank Their Ship On Purpose 🐋 Part 1").
-- 11-19 (MUST, next run): ESSEX PART 2. Title idea "They Chose the Long Way. Only 8 Lived 🐋 Part 2". Facts: boats at sea ~3 months (Chase's boat rescued after 89 days, Pollard's 92; HISTORY.com says 83-day journey), stopped at Henderson Island where 3 men stayed and were rescued later, food ran out, most resorted to cannibalism and drew lots (keep it non-graphic: 'they did the unthinkable to survive'), 8 of 20 survived, Melville read Chase's account -> Moby-Dick (1851). Same Paper Atlas look, Wild True Stories playlist, open with a recap hook ("Their ship was sunk by a whale. That was the EASY part."), say 'Part 1 is on the channel' in the pinned comment.
-- 11-21: First people to fly, in a hot-air balloon (1783). Hook: "The first flight passengers weren't humans. They were a sheep, a duck and a rooster."
-- 11-24: Beaver supermoon. Hook: "What if the Moon were twice as close?"
-- 11-25: Uranus at its brightest (opposition). Hook: "This planet rolls around the Sun on its side. What if Earth did?"
-- 11-26: Tutankhamun's tomb first opened (1922) / US Thanksgiving. Hooks: "He looked inside and saw gold everywhere." or "It's not the turkey making you sleepy."
-- Anytime (news 11-09): Parker Solar Probe found a hidden pattern in the Sun's magnetic field. Hook: "What would happen if you touched the Sun?"
-
+Updated 2026-11-18. Post on the date (or the day before). Skip a line if the event slips.
+- 11-19 (MUST, next run): ESSEX PART 2. Title idea "They Chose the Long Way. Only 8 Lived 🐋 Part 2". Facts: boats at sea ~3 months (Chase's boat rescued after 89 days, Pollard's 92), Henderson Island (3 men stayed, rescued later), food ran out, drew lots (non-graphic: 'they did the unthinkable to survive'), 8 of 20 survived, Melville read Chase's account -> Moby-Dick (1851). Same Paper Atlas look, Wild True Stories, recap hook "Their ship was sunk by a whale. That was the EASY part.", pinned comment says Part 1 is on the channel.
+- 11-20: Voyager 1 is now ONE LIGHT-DAY from Earth (crossed 11-18, 25.9 billion km; EarthSky/IFLScience). Hook: "A message to this spacecraft now takes a full day to arrive."
+- 11-21: First humans to fly, hot-air balloon (21 Nov 1783). Hook: "The first flight passengers weren't humans. They were a sheep, a duck and a rooster."
+- 11-22: Blackbeard killed (1718). Hook: "It took 5 gunshots and 20 sword cuts to stop him." (check numbers)
+- 11-23: D.B. Cooper hijacking (24 Nov 1971). Hook: "He jumped out of a plane with $200,000. Nobody ever found him."
+- 11-24: Supermoon (first of 3 in a row). Hook: "What if the Moon were twice as close?" (a rival did "Moon falls on Earth": make ours about tides/you, not a crash)
+- 11-25: Uranus opposition. Hook: "This planet rolls around the Sun on its side. What if Earth did?"
+- 11-26: Tutankhamun's tomb opened (1922) / Thanksgiving. Hooks: "He looked inside and saw gold everywhere." or "It's not the turkey making you sleepy."
+- 11-27: Venus at greatest brightness (mag -4.7, mornings). Hook: "The brightest 'star' this week is a planet hot enough to melt lead."
+- 11-30: Sylacauga meteorite (1954): the only confirmed person hit by a meteorite. Hook: "A rock from space smashed through her roof and hit her on the sofa."
+- 12-01: Ford's moving assembly line (1913). Hook: "One idea cut building a car from 12 hours to 93 minutes." (check numbers)
+- 12-03: Europa Clipper Earth flyby, 3,200 km up (Planetary Society). Hook: "NASA is aiming a spaceship straight at Earth. On purpose."
+- Anytime: Parker Solar Probe (news 11-09). Hook: "What would happen if you touched the Sun?"
 ## Posting-time test (managed by the Sunday weekly report)
 Each slot is used until it has at least 5 Shorts; then the Sunday report moves both scheduled tasks to the next slot. Compare average views at ~24 h per Short.
 | slot | main post time (IST) | safety net (IST) | started | Shorts | avg views at ~24 h | status |
