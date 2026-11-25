@@ -16,10 +16,8 @@ Owner feedback 2026-11-13: the Shorts look too plain and calm to compete. Every 
 ## Current rules of thumb (strongest first)
 00000. 11-25 NEW (medium): MYTH-BUST works, 'send this to a friend' lines don't. Moon (myth-bust inside a timely what-if): 1,320 @24 h (above ~1,180 band) and 30 likes = 2.3%, BEST like rate ever. -40° share line (Zapier): 67% viewed, 0 shares, 0 subs, 1,196 @60 h = DIDN'T WORK. Space-suit settled at 112% viewed, +2 subs. Shares still 3 in ~21k analysed (0.14/1k), subs ~0.73/1k on analysed Shorts.
 0000. 11-24 NEW (medium, Zapier to ~11-22): EARLY MYTH-BUST + NAMED TRUE TWIST = retention + subs: space-suit 119.7% viewed (38 s avg, 2nd best ever) and +2 subs on 1,334 (1.5/1k); water +4 subs on 2,651 (1.5/1k, best sub count). Subs now 17 on ~19.9k analysed (0.85/1k, up from 0.64). SHARES still the weakest: 3 in ~19.9k (0.15/1k). Keep a myth-bust in every Short.
-000. 11-23 UPDATE: both formula Shorts STALL after the first day: water 2,740 @41 h (2,523 @24 h), space-suit 1,559 @17 h (1,518 @12 h, ~1.3x band, below water). Formula lifts the first test pool; it doesn't yet create a second wave. Shares/subs still the missing lever. (medium)
 00. WEEKLY 11-22 (medium-high, 2 Shorts): COLD OPEN ON THE WORST MOMENT + NUMBER-LED TITLE + body/survival is our best formula: water 2,718 @~36 h, space-suit 1,518 @~12 h (already above the ~1,180 24 h band). Keep using it; vary the topic (not always 'your body').
 0. NEW 11-22 (BIGGEST WIN): COLD OPEN ON THE WORST MOMENT + NUMBER-LED STATEMENT TITLE + body/survival topic = water Short 2,523 @24 h (2.1x the ~1,180 band; 2nd breakout after twins' 2,799 @144 h). Repeat this formula; 11-22 repeats it (space-without-a-suit) to confirm. (medium: 1 Short)
-0b. 11-21: the 24 h band was SLIPPING before that: Essex 2 816 @24 h (904 @48 h), Voyager only 462 @24 h (worst ever; 'YOU' hook + timely space news). Space/history news with a soft personal angle loses the first test pool; body/survival (twins, 11-days) wins it. (medium)
 1. Most Shorts get ~1.1k-1.3k views in ~12 h and then STOP (YouTube's first test pool). Breakouts: twins 2,799 @120 h (viewer request, statement hook, no fade-in); 11-days-awake 1,418 @72 h; Essex Part 1 1,334 @48 h. Essex PART 2 only 816 @24 h: a sequel that needs Part 1 gets FEWER views. An early share/sub/comment seems to matter more than likes. (high on the band, low-medium on why)
 2. RUNNING COUNTER + SEAMLESS LOOP is our best formula for retention/subs: 11-days (DAY counter every shot, last shot = first shot) = 84.9% viewed AND +2 subs on 1,390 (1.44/1k). Re-used 11-19 (Essex 2, DAY + ALIVE) and 11-20 (Voyager, WAITING clock). Did NOT rescue Essex 2's views (sequel effect). (medium; Essex 2 retention due ~11-21)
 2a. Retention: ice 122% (Stick Story survival, loops), 11-days 87%, Leonids 77%, GTA 76%, Earth 72%, twins 71%, Apollo 61%, stomach 45%. Statement hooks + escalating numbers + loop ending. (medium-high, 8 Shorts)
@@ -29,7 +27,6 @@ Owner feedback 2026-11-13: the Shorts look too plain and calm to compete. Every 
 5. Judge at 24 h+, never at 1 h. (medium)
 
 Run 2026-11-23: -40° cold (Stick Story, am_puck x1.02, 27 s, 17 cuts ~1.6 s): cold open on frosted face + red FROSTBITE at frame 0, OUTSIDE AT -40° MIN/HRS HUD every shot, number title, seamless loop; NEW TEST for shares: spoken + on-screen 'send this to the friend who wears shorts in winter' (phone + paper plane) as the loop line. Posted ~00:56 IST (task fired 00:41 IST, not slot A). D.B. Cooper (calendar) skipped: the skill's Night File example IS Cooper (template risk).
-Run 2026-11-22: Space without a suit (Inside Out, am_michael x1.1, 31 s, 15 cuts): repeat of the water formula (cold open on second 15, number title) + early myth-bust + named 1966 NASA twist; SECONDS IN SPACE HUD every shot; loop back to frame 0. Retitled Voyager.
 Week of 2026-11-22: 7 Shorts, channel 13,636 views (~+7.7k vs ~6.0k last week), 19 subs (+12). Best: water (2,718, cold open + number title); space-suit fast start (1,518 @12 h). Worst: Voyager (475, 'YOU' hook + news). Retention best: 11-days 84.5%. Shares still ~0. Long video #2 posted (7 Shorts, 3:48). Posting slot A done (avg ~1,252 @24 h over 8 Shorts); slot B waits for the owner to move the schedule.
 Week of 2026-11-15: 6 Shorts, 5,977 channel views, 7 subs (+4). Best: Earth doubling (72% viewed, +2 subs). Worst: stomach (45%). All Shorts stuck at the ~1.2k first-test band. First weekly long video posted (3 Shorts, 1:55).
 
@@ -80,15 +77,10 @@ Pattern: counters, escalating numbers and survival loops hold 75-120%; soft 'why
 - RESULT 11-25: 'send this to the friend who…' share line (-40°): 0 shares, 0 subs, 67% viewed: DIDN'T WORK. Don't repeat explicit share requests.
 - TESTING 11-25 (turkey myth): whole-video myth-bust of a common belief + 'tell your uncle' comeback loop + funny culprit twist. Judge shares/1k vs 0.14, likes vs Moon 2.3%, 24 h views vs ~1.2k band, % viewed vs ~70%.
 - IDEA: more 'everyone believes X, it's wrong' body myths: 'cracking knuckles gives you arthritis', 'you only use 10% of your brain', 'sugar makes kids hyper', 'you lose most heat through your head' (check facts).
-- DOUBLE DOWN: "what if" escalation with a number that grows every few seconds (best retention, only Short that won subs). Next: "What if the Moon were twice as close?" (11-24 supermoon) or "What if you didn't sleep for 11 days?".
-- DOUBLE DOWN: survival/danger in Stick Story (ice 122% viewed). DONE 11-17 as the 11-days-awake true story. Next survival ideas: "What if you got lost at sea?", "What if you got stuck in a lift?", "How long can you survive without water?".
 - DROP: slow "why does your body..." explainers with a question hook (45% viewed). Body topics only with a shocking statement hook and numbers.
 - EXPERIMENT (research 11-18): LENGTH. Make one "what if" escalation 45-55 s (rivals' top what-ifs run 43-80 s), all else as usual. Compare avg view duration in seconds and 24 h views vs the ~1.2k band.
 - EXPERIMENT (research 11-18): EXTREME NUMBER IN TITLE ("1 trillion times", "400 m"). One Short, compare 24 h views vs band.
-- RESULT 11-20 (Voyager): "YOU" in hook + title: 462 @24 h (band ~1,180), 3 likes: DIDN'T WORK for views. Don't use 'YOU' as the main fix again; shares still to judge.
 - RESULT 11-23 RETITLE: Voyager 468 @48 h → 475 @65 h after retitle: no lift (low confidence, 1 test). Retitling a stalled Short doesn't restart it; try once more before dropping.
-- TESTING 11-22 (space without a suit): myth-bust early ('you wouldn't explode') + named true-story twist (1966 NASA engineer) for SHARES, on top of the cold-open + number-title formula. Judge shares/subs vs 0.14/0.64 per 1k and 24 h views vs water's 2,523.
-- IDEA: more 'your body vs extreme' with a number: '3 minutes without air', 'what -40 does to you in 60 seconds', 'how deep can you dive before your lungs shrink'.
 
 ## Research notes (weekly)
 Updated 2026-11-18 (weekly research). Delete notes older than ~6 weeks unless still important.
@@ -112,7 +104,6 @@ Competitor study 2026-11-18 (YouTube search, Shorts posted 11-11 to 11-18, Engli
 Updated 2026-11-18. Post on the date (or the day before). Skip a line if the event slips.
 - ~~11-23: D.B. Cooper~~ SKIPPED 11-23 (skill's Night File example is this exact story = template risk; only do it with a fresh angle, e.g. Stick Story 'what he jumped into'). Hook: "He jumped out of a plane with $200,000. Nobody ever found him."
 - ~~11-24: Supermoon~~ DONE 11-24 (Moon 2x Closer). Next supermoons late Dec (biggest of 2026) + Jan 2027: follow-up idea 'What if Earth had NO Moon?'.
-- (old note) 11-24: Supermoon (first of 3 in a row). Hook: "What if the Moon were twice as close?" (a rival did "Moon falls on Earth": make ours about tides/you, not a crash)
 - ~~11-25: Uranus opposition~~ SKIPPED (space what-if two days running; Thanksgiving myth won the topic test). Keep 'What if Earth rolled on its side?' for anytime.
 - 11-26: Tutankhamun's tomb opened (1922). Hook: "He looked inside and saw gold everywhere." (Thanksgiving turkey myth DONE 11-25)
 - 11-27: Venus at greatest brightness (mag -4.7, mornings). Hook: "The brightest 'star' this week is a planet hot enough to melt lead."
