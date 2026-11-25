@@ -1,7 +1,6 @@
 # What we've learned (updated by every daily run)
 
 Read this before choosing today's topic, style, title and script. Rewrite it at the end of every run: keep it short (under ~80 lines), keep only lessons the numbers support, and say how confident each one is.
-
 ## Quality bar (set by the channel owner; NEVER delete or shorten this section)
 Owner feedback 2026-11-13: the Shorts look too plain and calm to compete. Every Short must pass ALL of these before publishing:
 1. HOOK = a shocking STATEMENT, not a soft question. Bad: "What happens when lightning hits a rocket?" Good: "Lightning hit this rocket. TWICE." The first 3 words must already be surprising.
@@ -12,7 +11,6 @@ Owner feedback 2026-11-13: the Shorts look too plain and calm to compete. Every 
 6. CAPTIONS: large, bold, high on the lower third, easy to read on a phone at arm's length.
 7. TOPIC TEST before writing: "Would a 16-year-old stop scrolling and send this to a friend?" If not, pick a more extreme or more relatable topic (danger, body, money, records, "what if" with huge numbers).
 8. In QA, compare the contact sheet against this list and fix anything that fails. Note in the scoreboard which of these were applied.
-
 ## Current rules of thumb (strongest first)
 00000. 11-25 NEW (medium): MYTH-BUST works, 'send this to a friend' lines don't. Moon (myth-bust inside a timely what-if): 1,320 @24 h (above ~1,180 band) and 30 likes = 2.3%, BEST like rate ever. -40° share line (Zapier): 67% viewed, 0 shares, 0 subs, 1,196 @60 h = DIDN'T WORK. Space-suit settled at 112% viewed, +2 subs. Shares still 3 in ~21k analysed (0.14/1k), subs ~0.73/1k on analysed Shorts.
 0000. 11-24 NEW (medium, Zapier to ~11-22): EARLY MYTH-BUST + NAMED TRUE TWIST = retention + subs: space-suit 119.7% viewed (38 s avg, 2nd best ever) and +2 subs on 1,334 (1.5/1k); water +4 subs on 2,651 (1.5/1k, best sub count). Subs now 17 on ~19.9k analysed (0.85/1k, up from 0.64). SHARES still the weakest: 3 in ~19.9k (0.15/1k). Keep a myth-bust in every Short.
@@ -28,19 +26,12 @@ Owner feedback 2026-11-13: the Shorts look too plain and calm to compete. Every 
 
 Run 2026-11-23: -40° cold (Stick Story, am_puck x1.02, 27 s, 17 cuts ~1.6 s): cold open on frosted face + red FROSTBITE at frame 0, OUTSIDE AT -40° MIN/HRS HUD every shot, number title, seamless loop; NEW TEST for shares: spoken + on-screen 'send this to the friend who wears shorts in winter' (phone + paper plane) as the loop line. Posted ~00:56 IST (task fired 00:41 IST, not slot A). D.B. Cooper (calendar) skipped: the skill's Night File example IS Cooper (template risk).
 Week of 2026-11-22: 7 Shorts, channel 13,636 views (~+7.7k vs ~6.0k last week), 19 subs (+12). Best: water (2,718, cold open + number title); space-suit fast start (1,518 @12 h). Worst: Voyager (475, 'YOU' hook + news). Retention best: 11-days 84.5%. Shares still ~0. Long video #2 posted (7 Shorts, 3:48). Posting slot A done (avg ~1,252 @24 h over 8 Shorts); slot B waits for the owner to move the schedule.
-Week of 2026-11-15: 6 Shorts, 5,977 channel views, 7 subs (+4). Best: Earth doubling (72% viewed, +2 subs). Worst: stomach (45%). All Shorts stuck at the ~1.2k first-test band. First weekly long video posted (3 Shorts, 1:55).
-
 ## Improvement log (daily)
 | date | weakest metric found | fix applied today | result of yesterday's fix |
 |---|---|---|---|
-| 2026-11-20 | SHARES still weakest (2 in 12.5k = 0.16/1k; subs 0.72/1k) | 'YOU' in first word of hook + title ('Your text would take a full day to reach this'), timely news (Voyager 1 light-day), WAITING clock HUD every shot + seamless loop, 17 cuts in 29 s | Essex 2 counter+loop: 816 @24 h vs Part 1 1,326 and band ~1,180: DIDN'T lift views (sequel effect likely); retention not in yet. Essex Part 1 (series): 68.6% viewed, +2 subs on 1,207 = 1.66/1k: subs WORKED, shares 0 |
-| 2026-11-21 | 24 h VIEWS (first test pool): Voyager 462 @24 h vs ~1,180 band; Essex 2 904 @48 h; shares still 2 in ~13k | cold open on the worst moment (10% lost, red alarm) + number-led statement title, body/survival topic (the two 24 h winners were body), WATER LOST % counter every shot + loop | 'YOU' hook (Voyager): 462 @24 h, 3 likes = DIDN'T WORK for views; shares not in yet. Essex 2 retention 66.3%, 0 subs (sequel weaker than Part 1 68.7%) |
-| 2026-11-22 | SHARES (2 in ~14k) + SUBS (0 on last 3 Shorts); Voyager 58.7% viewed | KEEP yesterday's winning formula (cold open on the worst moment: swollen KO body at SECONDS IN SPACE 15, number-led title '15 Seconds in Space Without a Suit') + NEW for shares: myth-bust early ('no, you wouldn't explode' + red X on movie BOOM) and a named true-story twist (NASA engineer 1966, spit boiling) + seamless loop; 31 s, 15 cuts | cold open + number title (water): 2,523 @24 h vs ~1,180 band = WORKED (best 24 h ever); retention/shares/subs not in yet |
-
 | 2026-11-24 | SHARES still weakest: 3 in ~19.9k analysed views (0.15/1k); subs improved to 0.85/1k | Repeat the space-suit retention win on a new topic: MYTH-BUST mid-video ('tonight's supermoon is only up to 14% bigger, most people can't tell' + red X on HUGE) on a timely what-if (supermoon day) with cold open + number title + MOON DISTANCE HUD + seamless loop; 35 s, 16 cuts (~2.2 s) | -40° share line: TOO EARLY (Zapier lag); 1,106 @36 h (≈ band), 17 likes (1.5%, best like rate since GTA). 11-22 myth-bust + named twist (space-suit): 119.7% viewed, +2 subs = WORKED for retention/subs, 0 shares |
 | 2026-11-23 | SHARES still 2 in ~14.8k analysed views (0.14/1k); subs 0 on last 4 analysed (Leonids, Essex 2, Voyager + water/space not in yet) | 'tag a friend' share line spoken + on screen as the LAST line ('send this to the friend who wears shorts in winter, because…' loops into 'at minus forty…'), on top of the cold-open + number-title + HUD + loop formula; new style rotation (Stick Story outdoors) | cold open + number title repeat (space-suit): 1,559 @17 h = above band (~1,180) but below water and stalled after ~12 h: PARTLY WORKED (views); myth-bust/named-twist shares not in yet. Voyager retitle: 468 @48 h → 475 @65 h: DIDN'T help |
 | 2026-11-25 | SHARES still weakest (3 in ~21k analysed views, 0.14/1k); -40° 0 subs | WHOLE-VIDEO MYTH-BUST of a belief almost everyone repeats (debate-bait: 'turkey is NOT why you pass out', timely Thanksgiving eve) + funny named culprit twist ('the pie is the accomplice', police line-up) + loop line that hands viewers a comeback ('when your uncle blames the bird, tell him:') + FOOD COMA meter HUD every shot; cold open on the KO'd man + red X at 0.5 s; 32 s, 14 shots (~2.3 s) | Moon myth-bust: 1,320 @24 h (band ~1,180), 2.3% likes (best ever) = WORKED (views/likes; retention too early). -40° share line: 67% viewed, 0 shares, 0 subs = DIDN'T WORK |
-
 ## Analytics & viewer comments (from the Sunday report)
 Weekly report 2026-11-22 (Zapier, data to ~11-20; water + space-suit not in yet). Long video #1 (S2hDZkEcl6I): 6 views, 62.6% viewed.
 | Short | avg % viewed | avg view duration | shares | subs gained |
@@ -57,60 +48,53 @@ Weekly report 2026-11-22 (Zapier, data to ~11-20; water + space-suit not in yet)
 | Voyager (30 s) | 58.7% | 17 s | 0 | 0 |
 | Stomach (43 s) | 45.2% | 19 s | 0 | 0 |
 Pattern: counters, escalating numbers and survival loops hold 75-120%; soft 'why'/news openings lose 40%+. Only 2 shares in ~14k views; 9 subs from analysed Shorts (channel total 19). Comments: viewers rarely comment (only owner pins + 3 viewer comments ever); no new viewer comments this week.
-
 ## Viewer questions (to answer)
 | question | who | comment id | date | status |
 |---|---|---|---|---|
 | Why are some twins identical and some not? | @vrajeshdabhi3743 | UgysOMQIq3Id7mLzLTZ4AaABAg | 2026-11-12 | DONE 11-15 (twins Short) |
 | Why would you not pre-download GTA 6? | @justinshoats6989 | UgxJ7f1fk0aSFkDt4vB4AaABAg | 2026-11-13 | skip (low value) |
 (11-25: no new viewer comments, nothing to reply, no Short qualified for a retitle (-40° 1,196 @60 h is above half the median); pinned pie question posted. 11-24: no new viewer comments, nothing to reply, no Short qualified for a retitle; pinned question posted on Moon. 11-23: no new viewer comments, nothing to reply; pinned question posted on -40°. Weekly 11-22: no new viewer comments all week (only our pinned questions, 0 replies). 11-22: no new viewer comments; nothing to reply; rude Earth comment still skipped. 11-21: no new viewer comments, nothing to reply; pinned questions still unanswered. 11-20: no new viewer comments, nothing to reply; our pinned questions still get no replies. 11-19: no new viewer comments, nothing to reply. 11-16 to 11-18: no new viewer questions; the channel owner already replied by hand to the 11-days comments ('2 am', 'I stayed up to 10am'), so nothing to reply 11-18. One rude comment on Earth skipped. Personal 'YOU' pinned questions get replies: keep them.)
-
 ## What to watch (in this order)
-- averageViewPercentage (retention): the main signal for Shorts. Below ~70% means the hook or pacing is losing people.
-- views at 24 h and 48 h (compare like with like: same age).
-- likes/views and comments/views (engagement), shares, subscribersGained.
-
+1) avg % viewed (below ~70% = hook/pacing losing people); 2) views at 24 h/48 h (same age only); 3) likes/views, comments, shares, subs gained.
 ## Ideas queue (try these, then record the result here)
-- WEEKLY 11-22 DOUBLE DOWN: cold open on the worst moment + number title on survival/extreme topics (water, space-suit both won). Next: '3 Minutes Without Air', '-40 Degrees in 60 Seconds', 'How Deep Before Your Lungs Shrink'.
-- WEEKLY 11-22 DROP: 'YOU'-first hooks on space news (Voyager 475) and multi-part series (Part 2 -30% views).
-- RESULT 11-24 (Moon 2x closer, myth-bust inside timely what-if): 1,320 @24 h, 2.3% likes (best ever): WORKED early; % viewed/shares due ~11-26.
-- RESULT 11-25: 'send this to the friend who…' share line (-40°): 0 shares, 0 subs, 67% viewed: DIDN'T WORK. Don't repeat explicit share requests.
-- TESTING 11-25 (turkey myth): whole-video myth-bust of a common belief + 'tell your uncle' comeback loop + funny culprit twist. Judge shares/1k vs 0.14, likes vs Moon 2.3%, 24 h views vs ~1.2k band, % viewed vs ~70%.
-- IDEA: more 'everyone believes X, it's wrong' body myths: 'cracking knuckles gives you arthritis', 'you only use 10% of your brain', 'sugar makes kids hyper', 'you lose most heat through your head' (check facts).
-- DROP: slow "why does your body..." explainers with a question hook (45% viewed). Body topics only with a shocking statement hook and numbers.
-- EXPERIMENT (research 11-18): LENGTH. Make one "what if" escalation 45-55 s (rivals' top what-ifs run 43-80 s), all else as usual. Compare avg view duration in seconds and 24 h views vs the ~1.2k band.
-- EXPERIMENT (research 11-18): EXTREME NUMBER IN TITLE ("1 trillion times", "400 m"). One Short, compare 24 h views vs band.
-- RESULT 11-23 RETITLE: Voyager 468 @48 h → 475 @65 h after retitle: no lift (low confidence, 1 test). Retitling a stalled Short doesn't restart it; try once more before dropping.
-
+- WEEKLY 11-22 DOUBLE DOWN: cold open on the worst moment + number title on survival/extreme topics (water, space-suit both won). Next: '3 Minutes Without Air', 'How Deep Before Your Lungs Shrink'.
+- DROP: 'YOU'-first hooks on space news (Voyager 475); multi-part series (Part 2 -30% views); explicit 'send this to a friend' lines (-40°: 0 shares, 0 subs); slow "why does your body..." question hooks (45% viewed). Retitling a stalled Short: no lift (Voyager, 1 test).
+- RESULT 11-24 (Moon myth-bust inside timely what-if): 1,320 @24 h, 2.3% likes (best ever): WORKED early; % viewed/shares due ~11-26.
+- TESTING 11-25 (turkey myth): whole-video myth-bust + 'tell your uncle' comeback loop. Judge shares/1k vs 0.14, likes vs 2.3%, 24 h views vs ~1.2k, % viewed vs ~70%.
+- IDEA: more 'everyone believes X, it's wrong' myths: knuckle-cracking arthritis, 10% of your brain, sugar makes kids hyper, heat lost through your head (check facts).
+- NEW 11-25 EXPERIMENT (research): IMPOSSIBLE MATERIAL what-if ('What if your bones were made of glass?'). Rivals' 'body made of wood' 424k, 'salt frying pan' 199k this week. Change ONLY the topic type; keep cold open + HUD + loop. Judge 24 h views vs ~1.2k band.
+- NEW 11-25 EXPERIMENT (research): CUSTOM THUMBNAIL (open to all creators since 11-23). One Short with a custom cover (giant subject + 2-3 huge words) IF the publish flow can set a thumbnail; else skip. Judge views from channel page/search after 7 days vs similar Shorts (Studio traffic sources).
+- EXPERIMENT (research 11-18, still untested, now higher priority): LENGTH 45-55 s on one 'what if' escalation (rivals' top 10 this week: 28-61 s, most 35-50 s). Judge avg view duration (s) + 24 h views vs band.
+- EXPERIMENT (research 11-18): EXTREME NUMBER IN TITLE ('1 trillion times', '1,000,000 black holes': both 175k+ again this week). Compare 24 h views vs band.
 ## Research notes (weekly)
-Updated 2026-11-18 (weekly research). Delete notes older than ~6 weeks unless still important.
-- AVOID: anything that "looks like it's made with a template" (YouTube's own wording). Inauthentic-content policy was split in mid-2026 into generic/repetitive, unsatisfying, and AI personas posing as experts (ScaleLab, upd. 11-09). Since 10-01 Shorts ranking favours original content; voice-over + template edits don't count as original (Creator Insider via SEJ, 10-01). Keep rotating our 3 styles, write every script from checked facts, never an AI "doctor/expert" character. No enforcement wave reported Oct-Nov.
-- Public Shorts views count every start and replay; "engaged views" (used for money/bonuses) exclude loops (OutlierKit 10-03; ContentStudio 10-14). Loops help reach, but real watch time is what pays later.
-- 11-16: YouTube now adds estimated TV co-viewers to public view counts (Purple Fish, 11-16). A small view jump may be this, not our change: judge tests on % viewed, subs and shares.
-- YouTube's Shorts lead: no ideal length and posting time matters little (Todd Sherman, quoted by OutlierKit 10-03). Our 28-40 s rule is our habit, not a YouTube rule (see length experiment).
-- "Shorts series" (seasons/episodes, custom thumbnails) is for Partner Program channels only (TechCrunch 09-23). TRY when eligible; until then use playlists + "Part 2" titles. Made on YouTube also expanded A/B tests of opening hooks: TRY if Studio offers it.
-- Still no real data (with samples) on hook timing or swipe rates; vendor "benchmarks" are hypothetical. Trust our scoreboard.
-
+Updated 2026-11-25 (weekly research). Delete notes older than ~6 weeks unless still important.
+- NEW: custom Shorts THUMBNAILS are now open to every creator (Neal Mohan, 11-23; Tubefilter + Social Media Today, 11-24/25). They show on the channel page, search and TV, not in the swipe feed. TRY on one Short (see ideas queue).
+- AVOID (still in force): anything that "looks made with a template"; since 10-01 Shorts gives less reach to unoriginal/template edits (Android Authority 10-02; Creator Insider via SEJ 10-01); July policy split inauthentic content into repetitive, unsatisfying and AI 'experts' (Tubefilter 07-13). Keep rotating the 3 styles, fresh visuals per topic, checked facts, no AI 'doctor' character. No new enforcement wave reported in Nov.
+- Public views: count from first frame (since Aug) and from 11-18 add estimated TV co-viewers (Mediaweek 11-18). Neither affects money. Judge tests on % viewed, subs, shares, not raw views.
+- Metricool study (799k videos, Jul 2026): Shorts views +127% YoY but time spent per Short ~3x lower; 61% of all YouTube views come from the Shorts feed; 83% of interactions happen in the first 10 days. So: the first 1-2 s matter more than ever; our cold-open rule stays.
+- Shorts Series (seasons/episodes, Sep-Oct): YouTube says 40% of Shorts-episode views come 30+ days after posting (MediaPost ~10-28). Eligibility unclear for small channels; our own data still says Part 2 loses views, so no series yet.
+- Still no real public benchmarks for swipe-away rate or retention (ContentStudio 10-14 says compare to your own Shorts). Trust our scoreboard.
 ## What's working for other channels (weekly)
-Competitor study 2026-11-18 (YouTube search, Shorts posted 11-11 to 11-18, English only). Use the PATTERN, never their topic.
-- Extreme number or scale right in the title: "shrink 1 trillion times" (456k, 49 s), "a 400 m wave" (176k, 43 s). Ours could be: "What if a wave as tall as the Eiffel Tower hit a city?"
-- Escalation that "gets worse every second": gravity stronger every second (129k, 71 s), the Moon falling toward Earth (197k, 68 s). Same as our Earth-doubling win. Ours: "What if the day got 1 hour shorter every minute?"
-- Everyday physics with a funny twist: "sound moving at walking speed" (135k, 33 s). Ours: "What if light were as slow as a bicycle?"
-- Put the VIEWER in it ("you"): "stars died so YOU exist" (236k, 70 s). Ours: "Your body is replacing itself while you watch this."
-- Counter-intuitive survival rules from a stick figure ("run TOWARD the train", "run from a cow"): 15-22k each at ~38 s on a small channel: same niche as our Stick Story. Ours: "Never stand in a doorway during an earthquake."
-- Length: the biggest English what-ifs this week ran 43-80 s, longer than ours.
-
+Competitor study 2026-11-25 (YouTube search, English Shorts posted 11-18 to 11-25, top by views). Use the PATTERN, never their topic.
+- Everyday object pushed to an absurd extreme: 'keep spinning a fidget spinner' 1.57M (50 s), 'a light bulb on the Moon' 120k (35 s). Ours: "What if you never stopped blowing up a balloon?"
+- Impossible material swap: 'your body made of wood' 424k (39 s), 'a frying pan made of salt' 199k (50 s). Ours: "What if your bones were made of glass?"
+- Giant number in the title: '1 trillion times hotter' 177k (48 s), '1,000,000 black holes' 183k (28 s), 'slept a billion years' 160k (61 s). Same as last week: still working.
+- Tiny relatable body 'why' with a fast answer: 'why some sounds irritate us' 459k at only 22 s. Ours: "Your brain hates this sound more than a scream." (statement hook, ~22-25 s)
+- Lengths: top 10 ran 22-61 s, most 35-50 s; 'YOU' still appears in most what-if titles. Lower-view facts channels used generic '#facts' titles: avoid.
 ## Topic calendar (next 14 days)
-Updated 2026-11-18. Post on the date (or the day before). Skip a line if the event slips.
-- ~~11-23: D.B. Cooper~~ SKIPPED 11-23 (skill's Night File example is this exact story = template risk; only do it with a fresh angle, e.g. Stick Story 'what he jumped into'). Hook: "He jumped out of a plane with $200,000. Nobody ever found him."
-- ~~11-24: Supermoon~~ DONE 11-24 (Moon 2x Closer). Next supermoons late Dec (biggest of 2026) + Jan 2027: follow-up idea 'What if Earth had NO Moon?'.
-- ~~11-25: Uranus opposition~~ SKIPPED (space what-if two days running; Thanksgiving myth won the topic test). Keep 'What if Earth rolled on its side?' for anytime.
-- 11-26: Tutankhamun's tomb opened (1922). Hook: "He looked inside and saw gold everywhere." (Thanksgiving turkey myth DONE 11-25)
-- 11-27: Venus at greatest brightness (mag -4.7, mornings). Hook: "The brightest 'star' this week is a planet hot enough to melt lead."
-- 11-30: Sylacauga meteorite (1954): the only confirmed person hit by a meteorite. Hook: "A rock from space smashed through her roof and hit her on the sofa."
-- 12-01: Ford's moving assembly line (1913). Hook: "One idea cut building a car from 12 hours to 93 minutes." (check numbers)
-- 12-03: Europa Clipper Earth flyby, 3,200 km up (Planetary Society). Hook: "NASA is aiming a spaceship straight at Earth. On purpose."
-- Anytime: Parker Solar Probe (news 11-09). Hook: "What would happen if you touched the Sun?"
+Updated 2026-11-25. Post on the date (or the day before). Skip a line if the event slips. Check every number before using. Anytime: Parker Solar Probe, 'What if Earth had NO Moon?', 'What if Earth rolled on its side?'.
+- 11-26: Tutankhamun's tomb opened (1922). Hook: "He looked inside and saw gold everywhere."
+- 11-27: Venus near greatest brightness (mornings). Hook: "The brightest 'star' this week is a planet hot enough to melt lead."
+- 11-29/30: Moon passes ~1° from Jupiter, with Mars + Regulus in one 5° group before dawn; Moon hides Jupiter only from southern Chile/Argentina (Star Walk 11-11; Telescope Advisor 11-17). Hook: "Tomorrow the Moon swallows Jupiter. Only one corner of Earth can see it."
+- 11-30: Sylacauga meteorite (1954), the only confirmed person hit by one. Hook: "A rock from space smashed through her roof and hit her on the sofa."
+- 12-01: Ford's moving assembly line (1913). Hook: "One idea cut building a car from 12 hours to 93 minutes."
+- 12-02: first nuclear chain reaction, Chicago Pile-1 (1942), built under a university football stand. Hook: "They built the first nuclear reactor under a stadium. In the middle of a city."
+- 12-03: first human heart transplant (1967, patient lived 18 days). Hook: "A stranger's heart beat inside his chest for 18 days." Also ~early Dec: Europa Clipper Earth flyby (verify date): "NASA is aiming a spaceship straight at Earth. On purpose."
+- 12-04: Mary Celeste found drifting (1872). Hook: "They found the ship sailing perfectly. Nobody was on board."
+- 12-05: Flight 19 vanished (1945). Hook: "Five bombers disappeared. Then the rescue plane vanished too."
+- 12-06: Halifax Explosion (1917), biggest man-made blast before the atom bomb. Hook: "Two ships bumped. A whole city was flattened."
+- 12-07: Apollo 17 'Blue Marble' photo (1972). Hook: "Only 24 people have ever seen the whole Earth with their own eyes."
+- 12-12 (heads-up): Geminids peak 12-13/14, up to ~150/h, thin Moon (Star Walk). Hook: "These shooting stars come from a rock, not a comet."
 ## Posting-time test (managed by the Sunday weekly report)
 Each slot is used until it has at least 5 Shorts; then the Sunday report moves both scheduled tasks to the next slot. Compare average views at ~24 h per Short.
 | slot | main post time (IST) | safety net (IST) | started | Shorts | avg views at ~24 h | status |
@@ -119,7 +103,6 @@ Each slot is used until it has at least 5 Shorts; then the Sunday report moves b
 | B | 12:41 | 16:11 | (starts the day the owner moves the tasks) | | | next: running once main=12:41, safety=16:11 IST |
 | C | 18:41 | 22:11 | | | | planned |
 After slot C: keep the best slot (ties: earliest), mark it "winner". Re-test about every 2 months.
-
 ## Scoreboard (one line per Short; refresh the numbers every run; numbers from 2026-11-25 12:57 IST; % viewed/subs/shares from Zapier, lag 1-2 days)
 | date | title | style | length | views | likes | comments | avg % viewed | notes |
 |---|---|---|---|---|---|---|---|---|
